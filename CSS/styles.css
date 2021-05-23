@@ -38,6 +38,10 @@
     padding-top: 50px;
 }
 
+.fa-google-play:hover{
+    color: black;
+}
+
 #loginform {
     width: 30%;
     background: -webkit-linear-gradient(to right, #9796f0, #fbc7d4);
@@ -55,27 +59,50 @@
 
 .close {
     cursor: pointer;
+    position: relative; 
+    bottom: 180px; 
+    left: 318px; 
+    font-weight: 700; 
+    font-size: 25px; 
+    transform: rotate(45deg); 
+    display: inline-block;
+    color: white;
+    
 }
 
+#email-div{
+    position: relative;
+    bottom: 60px;
+}
 #inputemail {
     width: 75%;
     border-radius: 20px;
     border-color: black;
 }
 
+#pass-div{
+    position: relative;
+    bottom: 40px;
+}
 #InputPassword {
     width: 75%;
     border-radius: 20px;
     border-color: black;
 }
 
+#rem-div{
+    position: relative;
+    bottom: 20px;
+}
 #sbmtbtn {
     border-radius: 10px;
-    width: 90px;
+    width: 130px;
     height: 30px;
     position: relative;
+    left: 85px;
     top: 30px;
-    background-color: #ffffc7;
+    background-color: #287ad1;
+    color: white;
     text-align: center;
 }
 

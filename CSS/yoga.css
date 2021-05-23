@@ -115,7 +115,7 @@
 }
 
 #homebtn{
-    font-family: serif;
+    font-family: 'Rubik', sans-serif;
     width: 150px;
     height: 40px;
     background-color: rgb(255, 255, 255);
@@ -128,4 +128,7 @@
     top: 80px;
 }
 
-
+#homebtn:hover {
+    box-shadow: inset 150px 0 0 0 rgb(196, 101, 101);
+    color: white;
+}

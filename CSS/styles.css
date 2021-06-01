@@ -158,7 +158,7 @@
 
 #supplies {
     padding-top: 80px;
-    padding-bottom: 120px;
+    /* padding-bottom: 10px; */
     background-color: #ffaaa7;
 }
 
@@ -167,7 +167,7 @@
 }
 
 #logostext {
-    font-family: 'Carter One', cursive;
+    font-family: 'Londrina Solid', cursive;
     font-size: 3.5rem;
 }
 
@@ -216,12 +216,14 @@
 #social {
     text-align: center;
     margin-top: 180px;
-
+    background-color: #ffffc7;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #con_txt {
     color: black;
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Baloo Tamma 2', cursive;
 }
 

@@ -6,7 +6,7 @@ Co-Winn is a basic frontend website which has been developed using Html,Css and 
 
 ### Want to contribute ?
 
-It's a project for anyone who is new to **Open Source** , and is getting started in the awesome field of **Web Development**. Just make sure you follow the **Contributing Guidelines** step by step , and you'll be good to go !!
+It's a project for anyone who is new to **Open Source** , and is getting started in the awesome field of **Web Development**. Just make sure you follow the **[Contributing Guidelines](https://github.com/IAmTamal/Co-Winn/blob/main/Contributing.md)** step by step , and you'll be good to go !!
 <br/>
 
 ---
@@ -42,4 +42,7 @@ It's a project for anyone who is new to **Open Source** , and is getting started
 
 ---
 
-### Project by :
+### Maintained by :
+
+![resized 1](https://user-images.githubusercontent.com/72851613/150410416-5ae308c3-4e41-4b69-83ea-0ec9fa90ad7f.png) <br/>
+**[Tamal Das](https://github.com/IAmTamal)**

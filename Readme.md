@@ -1,18 +1,23 @@
 ![Co-winn](https://user-images.githubusercontent.com/72851613/150385004-16104840-9c75-436b-8a0b-602c352d2e48.png)
 
-## What is Co-Winn ? 
+## What is Co-Winn ?
 
+Co-Winn is a basic frontend website which has been developed using Html,Css and Javascript. This website is created for Opensource Events. This website will help people in need during this time of Pandemic, help them find food, doctors nearby, provide them with heath consultancy if needed.
 
-Co-Winn is a basic frontend website which has been developed using Html,Css and Javascript. This website is created for Opensource Events. This website will help people in need during this time of Pandemic, help them find food, doctors nearby, provide them with heath consultancy if needed.   
+### Want to contribute ?
 
+It's a project for anyone who is new to **Open Source** , and is getting started in the awesome field of **Web Development**. Just make sure you follow the **Contributing Guidelines** step by step , and you'll be good to go !!
 <br/>
 
+---
+
 ## Technologies used 💻
+
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
- 
- ### Plugins used
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+
+### Plugins used
 
 - Popper JS
 - Tippy JS
@@ -23,29 +28,18 @@ Co-Winn is a basic frontend website which has been developed using Html,Css and 
 - Animate on Scroll (AOS)
 - JQuery
 
- <br/>
- 
-##  Useful Links 🌐
-Live Site : https://iamtamal.github.io/Co-Winn/
+## Useful Links 🌐
+
+**Live Site : https://iamtamal.github.io/Co-Winn/**
 
 ---
 
-### Description
-
-<p style="font-size: 1.1em;">
-This a the first website that i have made during my first yearkeeping in mind the ongoing Covid-19 pandemic. In future i shall be making some more changes as well as adding the backend part of it .
-</p>
-
-
-
 ## Screenshots 📷
-
 
 ![1](/Cowinn-ss/1.png)
 ![2](/Cowinn-ss/2.png)
 ![3](/Cowinn-ss/3.png)
 
-
 ---
 
-
+### Project by :
